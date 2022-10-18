@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim Brown! <br/><a href="https://github.com/joshmadakor1">Physicist</a>, <a href="https://www.linkedin.com/in/timothy-brown-ml-datasci/">Data Scientist</a></h1>
+<h1>Hi, I'm Tim Brown! <br/><a href="https://www.linkedin.com/in/timothy-brown-ml-datasci/">Physicist, Data Scientist, Machine Learning Engineer</a></h1>
 
 <h2>👨‍💻 Data Sci/ML/Physics Projects:</h2>
 
