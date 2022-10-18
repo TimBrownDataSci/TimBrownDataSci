@@ -1,15 +1,11 @@
-<h1>Hi, I'm Tim Brown! <br/><a href="https://github.com/joshmadakor1">Physicist</a>, <a href="https://www.linkedin.com/in/timothy-brown-ml-datasci/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Machine Learning Engineer</a></h1>
+<h1>Hi, I'm Tim Brown! <br/><a href="https://github.com/joshmadakor1">Physicist</a>, <a href="https://www.linkedin.com/in/timothy-brown-ml-datasci/">Data Scientist</a></h1>
 
 <h2>👨‍💻 Data Sci/ML/Physics Projects:</h2>
 
 - <b>Frequency Analysis in Magnetically Damped Systems</b>
-  - [Simulating a Guitar String damped by magnetic pickups in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Simulating a Guitar String damped by magnetic pickups in Python](https://github.com/TimBrownDataSci/Frequency-Analysis-Magnetic-Damping)
 - <b>Baseball WAR Prediction</b>
-  - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>📺 Popular YouTube Videos</h2>
 
