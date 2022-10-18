@@ -5,7 +5,7 @@
 - <b>Frequency Analysis in Magnetically Damped Systems</b>
   - [Simulating a Guitar String damped by magnetic pickups in Python](https://github.com/TimBrownDataSci/Frequency-Analysis-Magnetic-Damping)
 - <b>Baseball WAR Prediction</b>
-  - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/TimBrownDataSci/Baseball-RAR-Prediction)
 
 <h2>📺 Popular YouTube Videos</h2>
 
