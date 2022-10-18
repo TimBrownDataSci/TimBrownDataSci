@@ -11,15 +11,15 @@
 
 - <b>Data Science/Machine Learning Associate</b>
   - Donyati Llc, May 2021- Aug 2021
-    -NLP and Time Series Financial Forecasting
-    -Saas Financial Forecasting and Cloud Computation Consulting
+    - NLP and Time Series Financial Forecasting
+    - Saas Financial Forecasting and Cloud Computation Consulting
  
 <h2>Education</h2>
 
 - <b>Michigan State University, College of Natural Science</b>
   - B.s. Physics,  Awarded May 2022
-    -Minor in Data Science
-    -Focus on Computational Physics
+    - Minor in Data Science
+    - Focus on Computational Physics
 
 
 
