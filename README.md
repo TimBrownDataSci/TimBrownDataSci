@@ -9,11 +9,19 @@
 
 <h2>Work Experience</h2>
 
-- <b>[How to get into Cybersecurity Starting From Zero]</b>
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Data Science/Machine Learning Associate</b>
+  - Donyati Llc, May 2021- Aug 2021
+    -NLP and Time Series Financial Forecasting
+    -Saas Financial Forecasting and Cloud Computation Consulting
+ 
+<h2>Education</h2>
+
+- <b>Michigan State University, College of Natural Science</b>
+  - B.s. Physics,  Awarded May 2022
+    -Minor in Data Science
+    -Focus on Computational Physics
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
