@@ -7,9 +7,9 @@
 - <b>Baseball WAR Prediction</b>
   - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/TimBrownDataSci/Baseball-RAR-Prediction)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Work Experience</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>[How to get into Cybersecurity Starting From Zero]</b>
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
