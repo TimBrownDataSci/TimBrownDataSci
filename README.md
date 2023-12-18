@@ -1,7 +1,8 @@
 <h1>Hi, I'm Tim Brown! <br/><a href="https://www.linkedin.com/in/timothy-brown-ml-datasci/">Physicist, Data Scientist, Machine Learning Engineer</a></h1>
 
 <h2>👨‍💻 Data Sci/ML/Physics Projects:</h2>
-
+- <b>Baseball Biomechanics and Pose Detection</b>
+  - [Exploring Budget MoCap for At-Home Biomechanics Analysis](https://github.com/TimBrownDataSci/BioMechanics/blob/main/PoseDetection.ipynb)
 - <b>Frequency Analysis in Magnetically Damped Systems</b>
   - [Simulating a Guitar String damped by magnetic pickups in Python](https://github.com/TimBrownDataSci/Frequency-Analysis-Magnetic-Damping)
 - <b>Baseball WAR Prediction</b>
