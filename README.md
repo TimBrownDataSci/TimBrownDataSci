@@ -12,7 +12,12 @@
   - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/TimBrownDataSci/Baseball-RAR-Prediction)</b>
 
 <h2>Work Experience</h2>
-
+- <b>Data Analyst</b>
+  - MI Dept. Of Treasury, Feb 2023 - Present
+    - Trained and Deployed ML models to predict non-compliant taxpayers
+    - Developed team-wide analytics environment and Data Governance Strategies
+    - Ad-Hoc Data Analysis
+    
 - <b>Data Science/Machine Learning Associate</b>
   - Donyati Llc, May 2021- Aug 2021
     - NLP and Time Series Financial Forecasting
