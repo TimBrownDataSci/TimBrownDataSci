@@ -8,9 +8,6 @@
 - <b>Frequency Analysis in Magnetically Damped Systems</b>
   - [Simulating a Guitar String damped by magnetic pickups in Python](https://github.com/TimBrownDataSci/Frequency-Analysis-Magnetic-Damping)</b>
     
-- <b>Baseball WAR Prediction</b>
-  - [Predicting MLB Player WAR and Identifying Over/Under-Performers](https://github.com/TimBrownDataSci/Baseball-RAR-Prediction)</b>
-
 <h2>Work Experience</h2>
 
 - <b>Data Analyst</b>
